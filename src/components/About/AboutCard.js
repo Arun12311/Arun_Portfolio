@@ -8,12 +8,11 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Arun Sadalgekar </span>
+            Hi Everyone, I am <span className="purple">Arun Gopal Sadalgekar </span>
             from <span className="purple"> Belgaum, India.</span>
-            <br /> I am a final year student pursuing Diploma 
-            in Electronics and Communication at Government Polytechnic,Belagavi.
-            <br />
-            Additionally, I am currently looking for higher education for BE.
+            <br /> I am a final year student pursuing B.E. 
+            in Computer Science and Engineering at KLE Technological University, Belagavi.
+            
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
